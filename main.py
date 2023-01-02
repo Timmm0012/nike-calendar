@@ -40,4 +40,4 @@ print(sku)
 print(price)
 print(img_url)
 
-#1
+
